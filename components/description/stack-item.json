@@ -1,0 +1,15 @@
+{
+  "collectionName": "stack",
+  "info": {
+    "name": "stack_item",
+    "icon": "code",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
